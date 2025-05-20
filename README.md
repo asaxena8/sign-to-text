@@ -12,19 +12,6 @@ This project is a real-time sign language alphabet recognition tool using a webc
 - Optional ROI capture for dataset building
 - Can be extended to sentence-building and audio playback
 
----
-
-## 📂 Project Structure
-
-```
-SignLanguage/
-├── app.py                 # Main GUI application
-├── model/
-│   └── sl_model.h5        # Pre-trained CNN model
-├── captured/              # (Optional) Saved ROI images
-├── sign_mnist_train.csv   # (Optional) Dataset source
-└── README.md              # You're here
-```
 
 ---
 
